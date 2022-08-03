@@ -6,6 +6,6 @@ Setup:
 
 - Download 'osfi-data-collection-1.0.2-raml.zip' file
 - Go to Design Center in Anypoint Platform and click on 'Create New' (Import from File).
-- Give a Project Name and Import the downloded RAML(.zip) file
+- Give a Project Name and Import the downloaded RAML(.zip) file
 - Check for the fields - Filing, AppraisalValue etc inside the RAML code to understand the usage of Custom data validation 
 
